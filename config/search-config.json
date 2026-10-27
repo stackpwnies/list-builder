@@ -1,0 +1,15 @@
+{
+  "hashtags": "homecooking,homechef,recipeoftheday,easyrecipes,quickmeals,dinnerideas,cookingathome,homebaking,mealprep,sundaymeals,comfortfood,weeknightdinners,fromscratch,homesteadcooking,familydinner,watchmecook,kitchentok,cookwithme,recipe,viralrecipe,tastetest",
+  "min_followers": 1000,
+  "max_followers": 100000,
+  "country": "US",
+  "gender": null,
+  "email_required": true,
+  "target_count": 500,
+  "results_per_hashtag": 20,
+  "output_file": "search-results.json",
+  "birth_year_min": null,
+  "birth_year_max": null,
+  "brand_seeds": [],
+  "cross_dedup": true
+}

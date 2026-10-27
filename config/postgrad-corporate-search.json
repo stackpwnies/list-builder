@@ -1,0 +1,19 @@
+{
+  "hashtags": "careertok,careeradvice,jobsearch,worklife,resumetips,interviewtips,careergrowth,learnerskills,remotework,newgrad,codingcareer,dayinthelife,workingmorning,productivity,careermilestones,networking,jobhunt,professionaldevelopment",
+  "min_followers": 1000,
+  "max_followers": 99999,
+  "birth_year_min": null,
+  "birth_year_max": null,
+  "country": "US",
+  "gender": null,
+  "email_required": true,
+  "target_count": 500,
+  "results_per_hashtag": 50,
+  "output_file": "postgrad-corporate-results.json",
+  "scan_posts": true,
+  "concurrency": 5,
+  "sound_discovery": true,
+  "sounds_per_user": 5,
+  "brand_seeds": [],
+  "cross_dedup": true
+}

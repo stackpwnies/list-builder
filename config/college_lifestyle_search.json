@@ -1,0 +1,19 @@
+{
+  "hashtags": "collegelife,campuslife,collegevlog,studywithme,studyvlog,dormroom,dormlife,cheapmeals,studentbudget,campusfood,libraryvibes,finalsweek,classfitcheck,studygram,scholarships,collegeadvice,roommatecheck,moveinday,backtocollege,studentlife",
+  "min_followers": 1000,
+  "max_followers": 100000,
+  "birth_year_min": null,
+  "birth_year_max": null,
+  "country": "US",
+  "gender": null,
+  "email_required": true,
+  "target_count": 500,
+  "results_per_hashtag": 50,
+  "output_file": "college-lifestyle-results.json",
+  "scan_posts": true,
+  "concurrency": 5,
+  "sound_discovery": true,
+  "sounds_per_user": 5,
+  "brand_seeds": [],
+  "cross_dedup": true
+}
